@@ -1,0 +1,42 @@
+House-Price-Prediction
+This project aims to build a model that can predict the price of a house based on the given features of the house. The data set used for training and testing the model is DS - Assignment Part 1 data set.xlsx. The data set contains information about different features of a house such as number of bedrooms, distance from nearest metro station, number of convenience stores, etc.
+
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+Prerequisites
+You need to have Python 3.x and the following libraries installed on your system:
+
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+catboost
+xgboost
+You can install these libraries using pip:
+
+Copy code
+pip install pandas numpy matplotlib seaborn sklearn catboost xgboost
+Installing
+Clone the repository and navigate to the project directory:
+
+Copy code
+git clone https://github.com/your-username/House-Price-Prediction.git
+cd House-Price-Prediction
+Usage
+To run the project, execute the following command in the project directory:
+
+Copy code
+python house_price_prediction.py
+Authors
+Your Name - Initial work - Your-Username
+See also the list of contributors who participated in this project.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc.
